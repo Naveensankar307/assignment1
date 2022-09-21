@@ -1,0 +1,20 @@
+1)Explorer the different layer of network
+    Application layer
+    Presentation layer
+    Session layer
+    Transport layer
+    Network layer
+    Data link layer
+    Physical layer
+
+2)Check your DNS server, find the IP address of any 5 websites
+    webstite        IP address
+
+    github.com     - 20.207.73.82
+    YouTube.com    - 142.250.77.142
+    Amazon.com     - 205.251.242.103
+                     54.239.28.85
+                     52.94.236.248
+    Apple.tv	   - 17.253.142.4
+    letsupgrade.in - 13.232.168.37
+                     13.234.73.79
